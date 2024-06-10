@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Lore of wisdom # the main title
 
-tagline: A TText-focused Jekyll theme # it will display as the sub-title
+tagline: Fate rarely calls upon us at a moment of our choosing # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Enter the hallowed halls of The Chronicles of Wisdom, a sacred repository meticulously curated by Me. Within these digital archives lies the essence of enlightenment, a compendium of knowledge spanning realms both known and yet to be discovered. As a voyager in the vast sea of information, embark on a quest through the annals of time and space. From the arcane mysteries of technology to the ancient wisdom of civilizations past, every scroll within this sacred vault is a beacon of illumination. Join Me on this epic odyssey of discovery and enlightenment, where every encounter with knowledge is an adventure unto itself.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
