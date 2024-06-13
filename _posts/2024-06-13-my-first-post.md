@@ -4,7 +4,6 @@ title: My First Post
 date: 2024-06-13 17:13 +0200
 categories: [Knowledge, Post_Creation]
 tags: [post, creation]
-author: <ID1>
 description: This is my first post. It's about creating a post. I hope you enjoy it.
 ---
 # Welcome to my first Post!
