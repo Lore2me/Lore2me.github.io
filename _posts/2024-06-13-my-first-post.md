@@ -11,3 +11,13 @@ I really recommend you following sites, to get more knowledge about this framewo
 [Markdown Guide](https://www.markdownguide.org/)  
 [Chirpy Post Guide](https://chirpy.cotes.page/posts/write-a-new-post/)  
 [Chirpy Repository](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_config.yml)
+
+
+## Create a new Post
+
+```shell
+bundle exec jekyll page "My New Page"
+```
+Change the title, the content, the categories and the tags of the new page in the file `_pages/my-new-page.md`.
+
+Optionally, you can add a description to the page.  
