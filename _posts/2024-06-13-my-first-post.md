@@ -10,3 +10,4 @@ description: This is my first post. It's about creating a post. I hope you enjoy
 I really recommend you following sites, to get more knowledge about this framework:  
 [Markdown Guide](https://www.markdownguide.org/)  
 [Chirpy Post Guide](https://chirpy.cotes.page/posts/write-a-new-post/)  
+[Chirpy Repository](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_config.yml)
