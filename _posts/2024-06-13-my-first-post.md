@@ -16,7 +16,7 @@ I really recommend you following sites, to get more knowledge about this framewo
 ## Create a new Post
 
 ```shell
-bundle exec jekyll page "My New Page"
+bundle exec jekyll post "My New Page"
 ```
 Change the title, the content, the categories and the tags of the new page in the file `_posts/my-new-page.md`.
 
