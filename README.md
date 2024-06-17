@@ -93,3 +93,4 @@ This work is published under [MIT][mit] License.
     - Sprint Backlog
     - Increment
     - Definition of Done
+  - SoDa
