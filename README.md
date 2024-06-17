@@ -59,3 +59,38 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+
+# Content Ideas:
+- DDD
+- Event Driven Design
+- Architecture's 
+  - Layered Architecture
+  - Event-Driven Architecture
+  - Microservices Architecture
+  - Microkernel Architecture
+  - Client-Server Architecture
+  - (Master-Slave Architecture)
+  - (Pipe-Filter Architecture)
+  - (Broker Architecture)
+  - (Peer-to-Peer Architecture)
+  - (Service-Oriented Architecture)
+- DoD
+- TDD
+- ATDD
+- CHEATSHEETs und deren Aussage
+- Shallow Mutability vs Mutability
+- SCRUM
+  - Scrum Master
+  - Product Owner
+  - Development Team
+  - Sprint
+  - Sprint Planning
+  - Daily Scrum
+  - Sprint Review
+  - Sprint Retrospective
+  - Scrum Artifacts
+    - Product Backlog
+    - Sprint Backlog
+    - Increment
+    - Definition of Done
