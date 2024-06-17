@@ -78,7 +78,6 @@ This work is published under [MIT][mit] License.
 - TDD
 - ATDD
 - CHEATSHEETs und deren Aussage
-- Shallow Mutability vs Mutability
 - SCRUM
   - Scrum Master
   - Product Owner
