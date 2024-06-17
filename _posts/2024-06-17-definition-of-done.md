@@ -3,7 +3,7 @@ layout: post
 title: Definition of Done
 date: 2024-06-17 11:17 +0200
 categories: [Knowledge, DoD, Agile, Scrum, Kanban, SWAT]
-tags: [docker, docker-compose, swat]
+tags: [swat]
 description: This post is about the DoD (Definition of Done).
 ---
 # Definition of Done (DoD)
