@@ -53,7 +53,6 @@ It also helps to ensure that the development team is following best practices an
 By defining and enforcing a DoD, the development team can improve their workflow and deliver better products to their customers.
 It is done by the development team and should be reviewed and updated regularly.
 
-
 ## Sources
 - [Atlassian: Definition of Done](https://www.atlassian.com/agile/scrum/definition-of-done)
 - [Agile Scrum Group](https://agilescrumgroup.de/definition-of-done/)
