@@ -75,7 +75,6 @@ This work is published under [MIT][mit] License.
   - (Broker Architecture)
   - (Peer-to-Peer Architecture)
   - (Service-Oriented Architecture)
-- DoD
 - TDD
 - ATDD
 - CHEATSHEETs und deren Aussage
