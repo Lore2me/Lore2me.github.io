@@ -4,12 +4,8 @@ title: Docker and Docker Compose
 date: 2024-06-14 15:31 +0200
 categories: [Knowledge, Docker]
 tags: [docker, docker-compose]
-description: This post is about Docker and Docker Compose.
+description: In today’s world, every developer should know about Docker and Docker Compose. So, let’s start with the basics.
 ---
-# Docker and Docker Compose
-In today's world, every developer should know about Docker and Docker Compose.
-So, let's start with the basics.
-
 ## Docker
 Docker is a platform for developing, shipping, and running applications in containers. It enables developers to separate their applications from the infrastructure so they can deliver software quickly.
 The propably most important feature of Docker is

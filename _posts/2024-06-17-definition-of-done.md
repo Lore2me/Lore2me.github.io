@@ -1,19 +1,11 @@
 ---
 layout: post
-title: Definition of Done
+title: Definition of Done (DoD)
 date: 2024-06-17 11:17 +0200
 categories: [Knowledge, DoD, Agile, Scrum, Kanban, SWAT]
 tags: [swat]
-description: This post is about the DoD (Definition of Done).
+description: The Definition of Done (DoD) is a list of requirements that a user story must meet before it can be considered complete. Mostly it is used in Agile software development, especially in Scrum and Kanban. It’s defined by the SCRUM-Team and will be continuously updated and improved. From Sprint to Sprint, the DoD should be reviewed and updated if necessary.
 ---
-# Definition of Done (DoD)
-The Definition of Done (DoD) is a list of requirements that a user story must meet before it can be considered complete.
-Mostly it is used in Agile software development, especially in Scrum and Kanban.
-It's defined by the SCRUM-Team and will be continuously updated and improved.
-From Sprint to Sprint, the DoD should be reviewed and updated if necessary.
-
-
-
 ## Goals
 - Ensure that the development team has completed the work on a user story.
 - Ensure that the formal requirements for a user story of the product owner are met.
