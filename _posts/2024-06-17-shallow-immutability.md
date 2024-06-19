@@ -2,8 +2,8 @@
 layout: post
 title: Shallow Immutability
 date: 2024-06-17 13:34 +0200
-categories: [Knowledge, PCP, Programming, Coding]
-tags: [pcp, programming, coding, immutability, shallow immutability, java]
+categories: [Knowledge, PCP, Coding]
+tags: [pcp, coding, immutability, shallow immutability, java]
 description: "In this post we compare Immutability with Shallow Immutability"
 ---
 # Immutability
