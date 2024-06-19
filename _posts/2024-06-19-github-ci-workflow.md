@@ -4,7 +4,7 @@ title: GitHub CI workflow
 date: 2024-06-19 10:18 +0200
 categories: [Knowledge, Coding, DevOps]
 tags: [coding, java, github, ci, spring-boot, maven]
-description: "In this post we look at a simple GitHub CI workflow for a Java project.
+description: "In this post we look at a simple GitHub CI workflow for a Java project."
 ---
 For a Github repository, you can create a simple CI workflow by adding a file in the `.github/workflows` directory. This file should be a YAML file with a name that ends in `.yml`. For example, `.github/workflows/workflow.yml`.
 
