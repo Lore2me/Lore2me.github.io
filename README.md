@@ -93,3 +93,5 @@ This work is published under [MIT][mit] License.
     - Increment
     - Definition of Done
   - SoDa
+  - Ubuntu
+  - Linux experience
