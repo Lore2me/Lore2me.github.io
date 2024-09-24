@@ -27,6 +27,17 @@ Following types are allowed:
 - **test**: Adding missing tests or correcting existing tests
 - **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation
 
+### Examples
+```
+feat: add new feature
+fix: fix a bug
+docs: update documentation
+style: format code
+refactor: refactor code
+test: add test for delete function
+chore: update build process
+```
+
 ## Why use Semantic Git Commit Messages?
 Semantic Git Commit Messages provide a lot of benefits to a project. Some of the key benefits are:
 - **Easier to maintain**: By using specific types, it is easier to understand what changes were made in a commit. This makes it easier to maintain the codebase.
