@@ -47,6 +47,27 @@ Latest is the tag of the image you want to run.
 If you don't specify a tag, Docker will use the latest tag by default.
 If you want to use a specific version of the image, you write the version number instead of latest.
 
+To show all Images, you can use the following command:
+```shell
+docker images -a
+```
+
+To remove a image, you can use the following command:
+```shell
+docker rmi my-docker-image:latest
+```
+my-docker-image is the name of the image you want to remove.
+
+To show all running containers, you can use the following command:
+```shell
+docker ps
+```
+
+To show used ressourced per Container, you can use the following command:
+```shell
+docker stats
+```
+
 ## Docker Compose
 Docker Compose is a tool for defining and running multi-container Docker applications.
 With Compose, you use a YAML file to configure your application’s services.
