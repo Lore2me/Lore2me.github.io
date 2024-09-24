@@ -65,5 +65,12 @@ Because the more you know, the better your decisions will be.
 A side of this, the more time you spend in your project, the more the architecture and the requirements will change.
 Means that the decisions for now won't be the best decisions in the future.
 
-# Architecture influencing forces
-- Quality 
+# Architecture influencing forces 
+- Cost
+- Quality
+- Time
+- Risk
+- Maintainability
+- Scalability
+- Flexibility
+- Security
