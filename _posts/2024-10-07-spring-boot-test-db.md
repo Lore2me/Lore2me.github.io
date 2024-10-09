@@ -103,7 +103,7 @@ A demonstration of a implementation by my own can be found in the software proje
 It's a URL-Shortener, running with Docker and a separate Docker database.
 Initially developed for ENLAB (Enterprise Programming Lab) and further developed in DEVOPS (Development and Operations).
 
-Project: [urlshortener](git@gitlab.switch.ch:hslu/edu/bachelor-computer-science/devops/24hs01/g02/g02-urlshortener.git)
+Project: [urlshortener](https://github.com/mfrautschi/urlshortener)
 
 # Conclusion
 In this post, I showed you how to use an H2 database for testing your Spring Boot application.
