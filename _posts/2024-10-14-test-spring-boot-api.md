@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test spring boot api
+title: Test Spring Boot API
 date: 2024-10-14 09:57 +0200
 categories: [Coding, Spring Boot, Testing]
 tags: [Spring Boot, JUnit, Testing, API]
