@@ -3,10 +3,10 @@ layout: post
 title: Spring Boot Test DB
 date: 2024-10-07 11:25 +0200
 categories: [Coding, Spring Boot, Database, Testing]
-tags: [H2, Database, Spring Boot, JUnit]
-description: "Spring Boot Test DB"
+tags: [H2, Database, Spring Boot, JUnit, In-Memory]
+description: "Spring Boot Test with In-Memory DB"
 ---
-# Spring Boot Test DB
+# Spring Boot Test with In-Memory DB
 If you have a Spring Application that uses a database, you might want to test it. You can use an in-memory database for testing purposes. In this post, I will show you how to use an H2 database for testing your Spring Boot application.
 
 ## H2 Database
