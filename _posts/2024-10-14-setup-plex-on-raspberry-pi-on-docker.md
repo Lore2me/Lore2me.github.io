@@ -125,3 +125,5 @@ Plex should now be running on your Raspberry Pi.
 
 # Configurate Plex
 To access the Plex web interface, open a web browser and go to http://your-raspberry-pi-ip:32400/web.
+
+Source: [sunfounder.com](https://www.sunfounder.com/blogs/news/raspberry-pi-plex-server)
