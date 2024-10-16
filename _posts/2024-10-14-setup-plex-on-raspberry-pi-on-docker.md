@@ -123,6 +123,24 @@ docker-compose up -d
 
 Plex should now be running on your Raspberry Pi.
 
+## Data outside of the container
+If you want to store your Plex data outside of the container, you can do so by declare the volumes in the docker-compose.yml file.
+
+Add in the example above the following lines:
+```yaml
+    volumes:
+      - ...
+      - /mywishdirecotry/media:/media
+```
+
+You need to be sure that the directory exists on your Raspberry Pi and that the user running the container has the necessary permissions to access the directory.
+
+To grant the necessary permissions, run the following commands:
+```bash
+sudo chown -R 1000:1000 /mywishdirecotry/media
+sudo chmod -R 755 /mywishdirecotry/media
+```
+
 # Configurate Plex
 To access the Plex web interface, open a web browser and go to http://your-raspberry-pi-ip:32400/web.
 
