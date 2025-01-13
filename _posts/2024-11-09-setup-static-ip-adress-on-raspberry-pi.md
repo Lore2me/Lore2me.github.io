@@ -2,7 +2,7 @@
 layout: post
 title: Setup static IP-Adress on raspberry pi
 date: 2024-11-09 12:50 +0100
-categories: [Raspberry Pi, Networking]
+categories: [Raspberry Pi, Networking, Plex]
 tags: [static ip]
 description: This is a guide on how to setup a static IP-Adress on a Raspberry Pi.
 ---

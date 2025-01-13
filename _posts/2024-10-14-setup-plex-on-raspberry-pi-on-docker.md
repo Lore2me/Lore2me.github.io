@@ -2,7 +2,7 @@
 layout: post
 title: Setup Plex on Raspberry Pi on Docker
 date: 2024-10-14 16:52 +0200
-categories: [Knowledge, Docker]
+categories: [Knowledge, Docker, Plex]
 tags: [plex, raspberry pi, docker]
 description: How to setup Plex on a Raspberry Pi using Docker
 ---

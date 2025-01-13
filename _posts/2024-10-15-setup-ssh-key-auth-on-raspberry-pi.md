@@ -2,7 +2,7 @@
 layout: post
 title: Setup SSH Key Auth on Raspberry Pi
 date: 2024-10-15 10:58 +0200
-categories: [SSH, Raspberry Pi, Authentication]
+categories: [SSH, Raspberry Pi, Authentication, Plex]
 tags: [ssh, key, auth, raspberry pi]
 description: This is a guide on how to setup SSH Key Authentication on a Raspberry Pi.
 ---
