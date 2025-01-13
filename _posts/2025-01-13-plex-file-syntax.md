@@ -2,7 +2,7 @@
 layout: post
 title: Plex - File Administration
 date: 2025-01-13 14:48 +0100
-categories: [Knowledge, Plex]
+categories: [Plex]
 tags: [plex]
 description: How to name and store the files for Plex to recognize them.
 ---
