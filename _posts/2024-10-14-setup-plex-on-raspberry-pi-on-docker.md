@@ -146,3 +146,6 @@ sudo chmod -R 755 /mywishdirecotry/media
 To access the Plex web interface, open a web browser and go to http://your-raspberry-pi-ip:32400/web.
 
 Source: [sunfounder.com](https://www.sunfounder.com/blogs/news/raspberry-pi-plex-server)
+
+# BUG Fix
+<em>If the wizard don't show up on the first start, it is propably a problem with the claim.</em>
