@@ -79,7 +79,6 @@ nano docker-compose.yml
 ```
 Enter following content:
 ```yaml
-version: '3'
 services:
   plex:
     image: ghcr.io/linuxserver/plex
@@ -122,6 +121,8 @@ docker-compose up -d
 ```
 
 Plex should now be running on your Raspberry Pi.
+
+<em> Removed "version: '3'" on top line, because it's in the new GO Interpreter deprecated.</em>
 
 ## Data outside of the container
 If you want to store your Plex data outside of the container, you can do so by declare the volumes in the docker-compose.yml file.
